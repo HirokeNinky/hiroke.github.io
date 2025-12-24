@@ -23,7 +23,7 @@ MineCuta
 ## Contribution
 Join [Support Server](https://hiroke.xyz/strixdc) to contribution
 
-##Nodes
+## Nodes
 
 ### License
 Website is Licensed under the [MIT License](https://github.com/HirokeNinky/Hiroke.github.io/blob/master/LICENSE)
